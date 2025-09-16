@@ -44,13 +44,13 @@ The dataset includes healthcare-related attributes such as:
 ## 📸 Dashboard Visualizations  
 
 ### 1️⃣ Overview Page  
-*(Insert screenshot of overview dashboard here)*  
+![Overview Dashboard Screenshot](https://github.com/HendRamadan1/-Analyzing-Healthcare-Data-in-Power-BI/blob/main/Screenshot%20(2152).png)
 
-### 2️⃣ Admissions & Readmissions  
-*(Insert screenshot of admissions analysis here)*  
+### 2️⃣ LOS comparsion
+![LOS comparsion ](https://github.com/HendRamadan1/-Analyzing-Healthcare-Data-in-Power-BI/blob/main/Screenshot%20(2189).png)
 
-### 3️⃣ Hospital Utilization & Costs  
-*(Insert screenshot of utilization dashboard here)*  
+### 3️⃣ Hospital Costs   
+![COST comparsion ](https://github.com/HendRamadan1/-Analyzing-Healthcare-Data-in-Power-BI/blob/main/Screenshot%20(2190).png)
 
 ---
 
